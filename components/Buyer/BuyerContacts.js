@@ -2,6 +2,7 @@
 /* on 04/10/2019 */
 /**name=Buyer Contacts Page
  * last modified on 24/10/2019
+ * Change to test git
  */
 import React, { useState, useEffect } from "react";
 import {
